@@ -1,0 +1,350 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    box-sizing: border-box;
+}
+.main-div{
+    background-image: url("img/nathan-dumlao-6VhPY27jdps-unsplash.jpg");
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+}
+.navbar-brand{
+    font-size: 50px;
+}
+.text{
+    color: #ffff !important;
+    font-size: 20px;
+}
+.KOPPEE{
+    color: #fff !important;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+.we{
+    color: #fff;
+    font-size: 30px;
+    
+}
+.COFFEE{
+    color: #ffff;
+    font-size: 160px;
+}
+.SINCE{
+    color: #fff;
+    font-size: 35px;
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFBF2;
+    padding-top: 150px;
+} 
+.About{
+    color: #DA9F5B;
+    font-size: 3rem;
+}
+.Serving{
+    color: black;
+    font-size: 3rem;
+}
+.button{
+    color: #fff !important;
+    background-color: #33211D;
+    border-color: #33211D;
+    border-radius: 0 !important;
+    margin-left: 50px;
+}
+.Our{
+    font-size: 2.5rem;
+    color: #33211D;
+    margin-left: 50px;
+}
+.Eos{
+    color: #33211D;
+    margin-left: 50px;
+}
+.Takimata{
+    color: #555;
+    font-size: 1rem;
+    margin-left: 50px;
+}
+.lorem{
+    display: inline;
+}
+.buttonlearn{
+    color: black !important;
+    background-color: #DA9F5B;
+    border-color: #DA9F5B;
+    border-radius: 0 !important;
+}
+.right{
+    color: #DA9F5B;
+    font-size: 25px;
+}
+.container2{
+    background-color: #FFFBF2;
+    padding-top: 100px;
+}
+.Our1{
+    font-size: 2.5rem;
+    color: #33211D;
+    margin-right: 20px;
+}
+.Takimata1{
+    color: #555;
+    font-size: 1rem;
+    margin-right: 20px;
+}
+.container3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFBF2;
+    padding-top: 150px;
+}
+.container4{
+    background-color: #FFFBF2;
+    padding-top: 75px;
+}
+.Fresh{
+    padding-right: 60px;
+}
+.container5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("img/pexels-adam-lukac-773958.jpg");
+    border: 4px solid #DA9F5B;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    padding-top: 150px;
+}
+.class4{
+    box-shadow: 10px 10px 15px rgb(146, 136, 101);
+}
+.container5 h1{
+    color: #DA9F5B;
+    font-size: 70px;
+}
+.container5 h3{
+    color: #DA9F5B;
+    font-size: 50px;
+}
+.container5 p{
+    color: #DA9F5B;
+    font-size: 35px;
+} 
+.container5 input{
+    height: 50px !important;
+    width: 500px !important;
+    border: 3px solid #DA9F5B !important;
+}
+.mainmenu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+}
+.MENU{
+    color: #DA9F5B;
+    font-size: 30px;
+}
+.Competitive{
+    color: #33211D;
+    font-size: 50px;
+}
+.Hot{
+    color: #33211D;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.Cold{
+    color: #33211D;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.container6{
+    background-color: #FFFBF2;
+}
+.menu-1{
+    margin-left: 70px;
+    border: 0;
+    border-radius: 75%;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    float: left;
+}
+.menu-11{
+    border: 0;
+    border-radius: 75%;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    float: left;
+}
+.black{
+    margin-top: 50px;
+
+}
+.black h1{
+    color: #33211D;
+}
+.black p{
+    color: black;
+}
+.container7{
+    background-image: url("img/pexels-adam-lukac-773958.jpg");
+    border: 4px solid #DA9F5B;
+}
+.Reservation{
+    margin-left: 50px;
+    margin-top: 120px;
+}
+.Reservation h1{
+    color: #33211D;
+    font-size: 70px;
+}
+.Reservation h4{
+    color: #fff;
+    font-size: 40px;
+}
+.Reservation p{
+    color: #fff;
+    font-size: 20px;
+}
+.Reservation h5{
+    color: #fff;
+}
+.placeholder{
+    margin-left: 55px;
+    margin-top: 120px;
+    
+}
+.placeholder h1{
+    margin-left: 50px;
+}
+.placeholder input{
+    width: 400px;
+    height: 50px;
+    border: 2px solid #DA9F5B;
+}
+.placeholder button{
+    width: 400px;
+    height: 50px;
+    background-color: #DA9F5B;
+    margin-top: 20px;
+}
+.TESTIMONIAL{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.TESTIMONIAL h1{
+    color: #DA9F5B;
+    font-size: 30px;
+}
+.TESTIMONIAL p{
+    color: #33211D;
+    font-size: 55px;
+}
+.testimonial1 h1{
+    font-size: 30px;
+}
+.testimonial2 h1{
+    font-size: 30px;
+}
+.testimonial3 h1{
+    font-size: 30px;
+}
+.testimonial1{
+    margin-left: 100px;
+}
+.testimonial2{
+    margin-left: 100px;
+}
+.testimonial3{
+    margin-left: 80px;
+}
+.container8{
+    background-color: #FFFBF2;
+}
+.New{
+    border-radius: 50%;
+}
+.container9{
+    background-image: url("img/pexels-adam-lukac-773958.jpg");
+    border: 4px solid #DA9F5B;
+}
+.TOUCH{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.TOUCH h4{
+    color: #fff;
+    font-size: 30px;
+}
+.locaction{
+    font-size: 15px;
+    color: #fff;
+}
+.TOUCH1{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.TOUCH1 h1{
+    font-size: 30px;
+    color: #fff;
+}
+.TOUCH1 p{
+    color: #fff;
+    margin-top: 20px;
+}
+.icon{
+    font-size: 50px;
+    color: #fff;
+}
+.TOUCH2{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.TOUCH2 h1{
+    color: #fff;
+}
+.TOUCH2 p{
+    color: #fff;
+}
+.divider{
+    width: 100%;
+    height: 3px;
+    background-color: #DA9F5B;
+    display: inline-block;
+}
+.Domain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.Domain p{
+    font-size: 20px;
+    color: #fff;
+}
