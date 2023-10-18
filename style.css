@@ -94,6 +94,7 @@ body{
 .container2{
     background-color: #FFFBF2;
     padding-top: 100px;
+    flex-wrap: wrap;
 }
 .Our1{
     font-size: 2.5rem;
@@ -104,6 +105,93 @@ body{
     color: #555;
     font-size: 1rem;
     margin-right: 20px;
+}
+@media screen and (max-width : 1200px) {
+    .Story{
+        width: 400px;
+        justify-content: space-around;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .Story{
+        width: 400px;
+        justify-content: space-around;
+    }
+}
+@media screen and (max-width : 1200px) {
+    .Story1{
+        width: 400px;
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .Story1{
+        width: 400px;
+        margin-left: 50px;
+    }
+}
+@media screen and (max-width : 1200px) {
+    .Door{
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .Door{
+        width: 400px;
+        height: 400px;
+    }
+}
+@media screen and (max-width : 1200px) {
+    .Fresh{
+        width: 400px;
+        margin-left: 65px;
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .Fresh{
+        width: 400px;
+        margin-left: 65px;
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width : 1200px) {
+    .diam{
+        width: 800px;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .diam{
+        width: 800px;
+    }
+}
+@media screen and (max-width : 1200px) {
+    .diam1{
+        display: none;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .diam1{
+        display: none;
+    }
+}
+@media screen and (max-width : 1200px) {
+    .black{
+        padding-left: 40px;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .black{
+        padding-left: 40px;
+    }
 }
 .container3{
     display: flex;
